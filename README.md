@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm reatmos</h1>
+<h1>Hi 👋, I'm rinnvxv</h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paia.ath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seongryun-lee-159b1717b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/athr4a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@73282) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@paiath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dsds837311@gmail.com) [![Tistory](https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=white)](https://re-atmosphere.tistory.com/)
